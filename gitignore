@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 .DS_Store
 .trello_flow
+=======
+# Mac OSX Finder hidden files
+.DS_Store
+
+# Figaro gem
+config/application.yml
+>>>>>>> upstream/master
